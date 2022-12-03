@@ -10,3 +10,4 @@
 #9: A function that finds the biggest integer of a list.
 #10: A function that finds all multiples of 2 in a list.
 #11: A function that deletes the item at a specific position in a list.
+#13: A function in C that checks if a singly linked list is a palindrome.
